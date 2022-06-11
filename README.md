@@ -11,7 +11,7 @@ So if you select the right color for your current feeling, my website will provi
 
 >You can get further help by visiting my Github or watching youtube video.
 > - Github address : https://github.com/smkim0310/OSSL_Final_Project
-> - Youtube video : TBD
+> - Youtube video : https://youtu.be/L7oWhu1_Foc
 
 - 
 
@@ -21,3 +21,4 @@ I first got resources from online, which is decribed below.
 >Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 Using this html template, I modified it to the way which fits my need, for example, changing photos, removing not using parts, and linked each themes to playlist on youtube channel which I created.
+
